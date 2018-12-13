@@ -1,0 +1,19 @@
+{
+  "name": "fctest",
+  "version": "1.0.0",
+  "description": "its cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snarf"
+  ],
+  "author": "coe",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
+  }
+}
